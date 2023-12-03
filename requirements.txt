@@ -10,5 +10,6 @@ pipreqs
 mlflow
 dvc
 ipykernel
+imblearn
 
 #-e .
